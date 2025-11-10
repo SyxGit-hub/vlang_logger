@@ -1,0 +1,4 @@
+[2025-11-11 00:37:20] [DEBUG] [main] This is a debug message
+[2025-11-11 00:37:20] [INFO] [main] This is an info message
+[2025-11-11 00:37:20] [WARN] [main] Watch out!
+[2025-11-11 00:37:20] [ERROR] [main] Something went wrong!
